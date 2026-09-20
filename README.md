@@ -1,6 +1,6 @@
 # Whale Superpowers
 
-A port of the [Superpowers](https://github.com/obra/superpowers) skill bundle for Claude Code to **[Whale](https://github.com/usewhale/whale)** — the DeepSeek-native terminal coding agent — plus Whale-specific additions the original doesn't have.
+A port of the [Superpowers](https://github.com/obra/superpowers) skill bundle for Claude Code to **[Whale](https://github.com/usewhale/whale)** the DeepSeek-native terminal coding agent — plus Whale-specific additions the original doesn't have.
 
 The bundle turns vague requests into disciplined workflows: brainstorm before building, write bite-sized plans before coding, test-first implementation, root-cause debugging, code review, verification before "done", and clean branch hygiene. Every skill is a plain `SKILL.md` file — readable, hackable, no runtime code.
 
